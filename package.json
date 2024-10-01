@@ -1,0 +1,22 @@
+{
+  "name": "curso-dat-web",
+  "version": "1.0.0",
+  "description": "Página de aglutina los proyectos realizado por los alumnos del curso de Desarrollo de aplicaciones con Tecnologías Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dhuancero/curso-dat-web-24.git"
+  },
+  "author": "dha desarrollos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhuancero/curso-dat-web-24/issues"
+  },
+  "homepage": "https://github.com/dhuancero/curso-dat-web-24#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
